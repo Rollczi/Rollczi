@@ -4,4 +4,5 @@
 
 ```kts
 package-private <3
+..or private
 ```
